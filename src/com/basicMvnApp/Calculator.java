@@ -7,6 +7,7 @@ public class Calculator {
 	{
 		System.out.println(a+b);
 		return a+b;
+		System.out.println("Hello Addition");
 	}
 	public void sub(int k,int l)
 	{
